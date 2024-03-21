@@ -1,0 +1,153 @@
+# Visual Studio Code
+.vscode/
+
+# Visual Studio editor files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.bak
+*.user
+*.vspscc
+*_i.c
+*_p.c
+*.log
+
+# Rider
+.idea/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Satisfy
+.project
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build Results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Ll]ibrary/
+
+# Temporary Files
+*.log
+*.dat
+*.status
+*.errors
+*.backup
+*.bak
+*.fts
+*.pidb
+*.ldb
+*.opendb
+*.opendb.lock
+*.cachefile
+
+# Rider
+.idea/
+*.sln.iml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# Visual Studio Build
+.vs/
+*.obj
+*.pdb
+*.userprefs
+*.usertasks
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# GhostDoc
+[Gg]host[Dd]oc*
+
+# Visual Studio User Options
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+[Ll]og.xml
+
+# TeX, LaTeX, and intermediate output files
+*.aux
+*.dvi
+*.log
+*.toc
+*.idx
+*.ind
+*.ilg
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.pdf
+
+# Backup & Temporary Files
+*.bak
+*.cache
+*.discovery
+*.journal
+*.suo
+*.swp
+*.sln.docstates
