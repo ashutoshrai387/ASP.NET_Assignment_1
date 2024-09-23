@@ -1,7 +1,7 @@
 # ASP.NET_Assignment_1 : Key-Value As A Service
 
 ## Introduction
-With the rise of IoT (ref: wiki (Links to an external site.)) there is a rise in need of reliable cloud storage. Most IoT projects only need to store key-value pairs. Key-value pair is exactly what it means - an entity with a searchable key and a corresponding value. E.g.: 
+With the rise of IoT there is a rise in need of reliable cloud storage. Most IoT projects only need to store key-value pairs. Key-value pair is exactly what it means - an entity with a searchable key and a corresponding value. E.g.: 
 
 {
 "key": "temp_dev0",
